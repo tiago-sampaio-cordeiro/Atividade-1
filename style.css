@@ -1,13 +1,22 @@
 h1 {
     text-align: center;
+    color: blue;
 }
 
 .sum {
     display: flex;
-    justify-content: center; ;
+    justify-content: center;
+    background-color: antiquewhite;
+    margin-bottom: 2rem;
 }
 
 .button {
     display: flex;
     justify-content: center;
+}
+
+#result {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
 }
